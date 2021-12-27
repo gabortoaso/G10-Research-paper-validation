@@ -1,12 +1,46 @@
-Questions:
-----
----
+Exercise 2 (deadline: end of January 2021)
 
-Deliverables:
-----
----
+Research paper: Entity Set Search of Scientific Literature: An Unsupervised Ranking Approach (2018)
 
+Initial questions:
+-	Did you download the research paper, list of requirements, databases, github codes?
+-	Are you familiar with code base: C, Python, C++?
+-	Should we create an own github folder (for the code and used input data)? “DOI”
+-	Open questions that we need to raise to the Authors?
+-	Do you see reasons to consult with the members of our peer group (at the beginning)?
+-	Should we use Word or LaTex2e to document the reproduced experiment?
+-	How we could share documents?
+-	Frequency of iteration (i.e.: regular calls?) “30/12/2021” – 10:00-12:00 Zoom (inform each other ASAP in case of flaw detection)
+-	Any other questions we need to discuss, raise, answers?
 
-Working Packages:
-----
----
+Deliveries:
+-	research report (max. 6 pages)
+o	code
+o	workflow
+--	experimental setup
+--	strategy to reproduce results
+--	document each steps in line with the instructions in the research paper
+--	similarities / significant deviations / impacts / flaws 
+o	Same paragraph like in the original one
+-	presentation (5 slides) x 2
+o	please send me 1 photo (if you want)
+
+WPs
+1.	create “folder” where we can work together (git-hub) [Gábor: TuWien e-mail, TUWEL password] e(matr.number)@student.tuwien.ac.at
+
+2.	understand the code (from git-hub) => clone and code if only something is missing!
+3.	compare the data-set (git-hub vs. original source)
+4.	download dataset and labelling => data preparation(?)
+5.	reproduce the same calculation (same output tables based on statistical approaches)
+6.	discuss initial observations (flaws, findings, outcomes, etc.) => how we continue?
+
+7.	align with G9 (Schuster Verena, Herbst Sebrina, Öhlwerher Stefan)
+
+8.	create draft presentation (s1: members research topic, s2: strategy, difficulties, findings, conclusions, results, etc.) [Gábor]
+9.	create skeleton of the research paper - i.e.: integrate the key content from the original research paper (LaTeX2) – “Overleaf” [Lukas: Overleaf, ALL OF US: integrate content]
+
+10.	cross-check content with the content in lecture presentations [ALL OF US]
+11.	review / comment draft research paper [ALL OF US]
+12.	review / comment draft presentation [ALL OF US]
+13.	submit final deliverables in time to Zenodo
+14.	give verbal presentation about the status of our work (13th and 20th of January)
