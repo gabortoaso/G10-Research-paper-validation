@@ -1,2 +1,0 @@
-elasticsearch==5.4.0
-textblob==0.13.0
